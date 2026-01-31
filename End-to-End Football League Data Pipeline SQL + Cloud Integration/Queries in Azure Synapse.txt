@@ -1,0 +1,79 @@
+--Question 1: What is the average attendance for games where the total goal count was higher than the average total goal count across all games?
+
+SELECT  
+    AVG(attendance)
+FROM    
+    EnglandSoccer.Matches
+WHERE
+    total_goal_count > (SELECT  
+        AVG(total_goal_count)
+    FROM    
+        EnglandSoccer.Matches)
+
+--------------------------------------------------------------
+--Question 2: Which referee officiated the most matches, and what is the average total number of fouls committed in those matches?
+
+SELECT TOP 5
+    referee,
+    COUNT(*) AS Number_Matches, 
+    AVG(home_team_fouls + away_team_fouls) AS Average_Total_Fouls
+FROM
+    EnglandSoccer.Matches
+GROUP BY
+    referee
+ORDER BY    
+    Number_Matches DESC
+--------------------------------------------------------------
+--Question 3: For each player position, calculate the average goals scored and assists made. Which position has the highest goal-to-assist ratio?
+
+SELECT
+    position,
+    AVG(goals) AS AverageGoal,
+    AVG(assists) AS AverageAssit,
+    AVG(goals) / NULLIF(AVG(assists) , 0) AS Ratio
+FROM       
+    EnglandSoccer.Players
+GROUP BY
+    position
+ORDER  BY Ratio DESC
+--------------------------------------------------------------
+--Question 4: Compare the average goals scored, corner counts, and possession percentages for home teams versus away teams.
+
+SELECT 
+    'Home' AS Team_Type,
+    AVG(home_team_goal_count) AS Average_Goal,
+    AVG(home_team_corner_count) AS Average_Corner,
+    AVG(home_team_possession) AS Average_Possession
+FROM
+    EnglandSoccer.Matches
+UNION
+SELECT 
+    'Away' AS Team_Type,
+    AVG(away_team_goal_count) AS Average_Goal,
+    AVG(away_team_corner_count) AS Average_Corner,
+    AVG(away_team_possession) AS Average_Possession
+FROM
+    EnglandSoccer.Matches
+--------------------------------------------------------------
+--Question 5: Which team had the highest shot accuracy (shots on target to total shots) across all games?
+
+SELECT
+    home_team_name,
+    SUM(home_team_shots_on_target) * 1.0 / SUM(home_team_shots) AS Accuracy
+FROM 
+    EnglandSoccer.Matches
+WHERE
+    home_team_shots > 0
+group by 
+    home_team_name
+UNION
+SELECT
+    away_team_name,
+    SUM(away_team_shots_on_target) * 1.0 / SUM(away_team_shots) AS Accuracy
+FROM 
+    EnglandSoccer.Matches
+WHERE
+    away_team_shots > 0
+group by 
+    away_team_name
+--------------------------------------------------------------

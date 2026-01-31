@@ -1,0 +1,571 @@
+fullname,age,birthday,position,Club,minutes_played,nationality,appearances,goals,assists,penalty_goals,penalty_misses,clean_sheets,yellow_cards,red_cards
+Adam Smith,31,4/29/1991,Defender,AFC Bournemouth,2073,England,25,1,1,0,0,9,6,1
+Andrew Surman,36,8/20/1986,Midfielder,AFC Bournemouth,1438,England,18,0,0,0,0,5,2,0
+Artur Boruc,42,2/20/1980,Goalkeeper,AFC Bournemouth,1080,Poland,12,0,0,0,0,4,2,0
+Asmir Begović,35,6/20/1987,Goalkeeper,AFC Bournemouth,2160,Bosnia and Herzegovina,24,0,0,0,0,5,0,0
+Callum Wilson,30,2/27/1992,Forward,AFC Bournemouth,2535,England,30,14,9,1,1,9,3,0
+Charlie Daniels,36,9/7/1986,Defender,AFC Bournemouth,1583,England,21,1,0,0,0,6,4,0
+Chris Mepham,24,11/5/1997,Defender,AFC Bournemouth,849,Wales,13,0,1,0,0,3,1,0
+Dan Gosling,32,2/1/1990,Midfielder,AFC Bournemouth,1737,England,25,2,1,0,0,7,8,0
+David Brooks,25,7/8/1997,Forward,AFC Bournemouth,2278,England,30,7,5,0,0,9,3,0
+Diego Rico,29,2/23/1993,Defender,AFC Bournemouth,607,Spain,12,0,0,0,0,0,1,0
+Dominic Solanke,25,9/14/1997,Forward,AFC Bournemouth,341,England,10,0,1,0,0,2,0,0
+Emerson Hyndman,26,4/9/1996,Midfielder,AFC Bournemouth,37,USA,1,0,0,0,0,0,0,0
+Jack Simpson,25,12/18/1996,Defender,AFC Bournemouth,403,England,6,0,0,0,0,2,0,0
+Jefferson Lerma,28,10/25/1994,Midfielder,AFC Bournemouth,2511,Colombia,30,2,0,0,0,8,12,0
+Jermain Defoe,40,10/7/1982,Forward,AFC Bournemouth,21,England,4,0,0,0,0,2,0,0
+Jordon Ibe,26,12/8/1995,Midfielder,AFC Bournemouth,795,England,19,1,1,0,0,4,1,0
+Joshua King,30,1/15/1992,Forward,AFC Bournemouth,2974,Norway,35,12,3,5,1,9,3,0
+Junior Stanislas,32,11/26/1989,Midfielder,AFC Bournemouth,1027,England,23,2,3,1,0,7,1,0
+Kyle Taylor,23,8/28/1999,Midfielder,AFC Bournemouth,0,England,0,0,0,0,0,0,0,0
+Lewis Cook,25,2/3/1997,Midfielder,AFC Bournemouth,721,England,13,0,0,0,0,3,2,0
+Lys Mousset,26,2/8/1996,Forward,AFC Bournemouth,345,France,24,1,0,0,0,5,1,0
+Marc Pugh,35,4/2/1987,Midfielder,AFC Bournemouth,0,England,0,0,0,0,0,0,0,0
+Mark Travers,23,5/18/1999,Goalkeeper,AFC Bournemouth,180,Republic of Ireland,2,0,0,0,0,1,0,0
+Matt Butcher,25,5/14/1997,Midfielder,AFC Bournemouth,0,England,0,0,0,0,0,0,0,0
+Nathan Aké,27,2/18/1995,Defender,AFC Bournemouth,3412,Netherlands,38,4,0,0,0,10,3,0
+Nathaniel Clyne,31,4/5/1991,Defender,AFC Bournemouth,1254,England,18,0,1,0,0,6,2,0
+Nnamdi Ofoborh,22,11/7/1999,Midfielder,AFC Bournemouth,0,England,0,0,0,0,0,0,0,0
+Ryan Fraser,28,2/24/1994,Midfielder,AFC Bournemouth,3173,Scotland,38,7,14,0,0,10,2,0
+Sam Surridge,24,7/28/1998,Forward,AFC Bournemouth,11,England,2,0,0,0,0,0,0,0
+Simon Francis,37,2/16/1985,Defender,AFC Bournemouth,1226,England,17,0,2,0,0,5,1,0
+Steve Cook,31,4/19/1991,Defender,AFC Bournemouth,2787,England,31,1,1,0,0,9,3,0
+Tyrone Mings,29,3/13/1993,Defender,AFC Bournemouth,141,England,5,0,0,0,0,0,0,0
+Aaron Ramsey,31,12/26/1990,Midfielder,Arsenal,1327,Wales,28,4,6,0,0,7,0,0
+Ainsley Maitland-Niles,25,8/29/1997,Midfielder,Arsenal,985,England,16,1,1,0,0,4,3,1
+Alex Iwobi,26,5/3/1996,Forward,Arsenal,1972,Nigeria,35,3,6,0,0,8,0,0
+Alexandre Lacazette,31,5/28/1991,Forward,Arsenal,2503,France,35,13,8,0,0,7,2,0
+Bernd Leno,30,3/4/1992,Goalkeeper,Arsenal,2835,Germany,32,0,0,0,0,7,0,0
+Carl Jenkinson,30,2/8/1992,Defender,Arsenal,166,England,3,0,0,0,0,0,0,0
+Danny Welbeck,31,11/26/1990,Forward,Arsenal,147,England,8,1,1,0,0,2,0,0
+Denis Suárez,28,1/6/1994,Midfielder,Arsenal,67,Spain,4,0,0,0,0,1,0,0
+Edward Nketiah,23,5/30/1999,Forward,Arsenal,62,England,5,1,0,0,0,1,0,0
+Emile Smith Rowe,22,7/28/2000,Midfielder,Arsenal,0,England,0,0,0,0,0,0,0,0
+Emiliano Martínez,30,9/2/1992,Goalkeeper,Arsenal,0,Argentina,0,0,0,0,0,0,0,0
+Granit Xhaka,30,9/27/1992,Midfielder,Arsenal,2502,Switzerland,29,4,2,0,0,7,10,0
+Hector Bellerin,27,3/19/1995,Defender,Arsenal,1535,Spain,19,0,5,0,0,4,3,0
+Henrikh Mkhitaryan,33,1/21/1989,Midfielder,Arsenal,1643,Armenia,25,6,4,0,0,4,1,0
+Joseph Willock,23,8/20/1999,Midfielder,Arsenal,64,England,2,0,0,0,0,0,0,0
+Konstantinos Mavropanos,24,12/11/1997,Defender,Arsenal,150,Greece,4,0,0,0,0,1,1,0
+Laurent Koscielny,37,9/10/1985,Defender,Arsenal,1328,France,17,3,0,0,0,4,1,0
+Lucas Torreira,26,2/11/1996,Midfielder,Arsenal,2377,Uruguay,34,2,2,0,0,6,8,1
+Matteo Guendouzi,23,4/14/1999,Midfielder,Arsenal,2143,France,33,0,0,0,0,4,9,0
+Mesut Özil,34,10/15/1988,Midfielder,Arsenal,1741,Germany,24,5,2,0,0,6,2,0
+Mohamed Elneny,30,7/11/1992,Midfielder,Arsenal,381,Egypt,8,0,0,0,0,2,0,0
+Nacho Monreal,36,2/26/1986,Defender,Arsenal,1861,Spain,22,1,3,0,0,6,5,0
+Petr Čech,40,5/20/1982,Goalkeeper,Arsenal,585,Czech Republic,7,0,0,0,0,2,0,0
+Pierre-Emerick Aubameyang,33,6/18/1989,Forward,Arsenal,2731,Gabon,36,22,5,4,1,8,0,0
+Rob Holding,27,9/20/1995,Defender,Arsenal,807,England,10,0,0,0,0,2,1,0
+Sead Kolašinac,29,6/20/1993,Defender,Arsenal,1891,Bosnia and Herzegovina,24,0,5,0,0,5,5,0
+Shkodran Mustafi,30,4/17/1992,Defender,Arsenal,2617,Germany,31,2,0,0,0,6,9,0
+Sokratis Papastathopoulos,34,6/9/1988,Defender,Arsenal,2199,Greece,25,1,2,0,0,6,12,0
+Stephan Lichtsteiner,38,1/16/1984,Defender,Arsenal,940,Switzerland,14,0,0,0,0,2,3,0
+Zechariah Medley,22,7/7/2000,Defender,Arsenal,0,England,0,0,0,0,0,0,0,0
+Alireza Jahanbakhsh,29,8/11/1993,Forward,Brighton & Hove Albion,1022,Iran,19,0,0,0,0,4,2,0
+Anthony Knockaert,30,11/20/1991,Midfielder,Brighton & Hove Albion,1832,France,30,2,6,0,0,3,5,1
+Ben White,25,10/8/1997,Defender,Brighton & Hove Albion,0,England,0,0,0,0,0,0,0,0
+Beram Kayal,34,5/2/1988,Midfielder,Brighton & Hove Albion,934,Israel,18,1,1,0,0,5,4,0
+Bernardo,27,5/14/1995,Defender,Brighton & Hove Albion,1750,Brazil,22,0,1,0,0,4,4,0
+Bruno Saltor Grau,42,10/1/1980,Defender,Brighton & Hove Albion,1136,Spain,14,0,1,0,0,4,2,0
+Dale Stephens,33,6/12/1989,Midfielder,Brighton & Hove Albion,2487,England,30,1,1,0,0,5,7,1
+Dan Burn,30,5/9/1992,Defender,Brighton & Hove Albion,0,England,0,0,0,0,0,0,0,0
+David Button,33,2/27/1989,Goalkeeper,Brighton & Hove Albion,360,England,4,0,0,0,0,1,0,0
+Davy Pröpper,31,9/2/1991,Midfielder,Brighton & Hove Albion,2551,Netherlands,30,1,1,0,0,5,2,0
+Florin Andone,29,4/11/1993,Forward,Brighton & Hove Albion,874,Romania,23,3,0,0,0,3,5,0
+Gaëtan Bong Songo,34,4/25/1988,Defender,Brighton & Hove Albion,1805,Cameroon,22,0,0,0,0,5,0,0
+Glenn Murray,39,9/25/1983,Forward,Brighton & Hove Albion,2513,England,38,13,1,4,0,7,5,0
+Jason Steele,32,8/18/1990,Goalkeeper,Brighton & Hove Albion,0,England,0,0,0,0,0,0,0,0
+Jayson Molumby,23,8/6/1999,Midfielder,Brighton & Hove Albion,0,Republic of Ireland,0,0,0,0,0,0,0,0
+Jose Izquierdo,30,7/7/1992,Forward,Brighton & Hove Albion,794,Colombia,15,0,1,0,0,5,1,0
+Jürgen Locadia,28,11/7/1993,Forward,Brighton & Hove Albion,1227,Netherlands,26,2,0,0,0,4,1,0
+Leon Balogun,34,6/28/1988,Defender,Brighton & Hove Albion,591,Nigeria,8,1,0,0,0,0,2,0
+Lewis Dunk,30,11/21/1991,Defender,Brighton & Hove Albion,3153,England,36,2,1,0,0,7,7,1
+Markus Suttner,35,4/16/1987,Defender,Brighton & Hove Albion,0,Austria,0,0,0,0,0,0,0,0
+Martín Montoya,31,4/14/1991,Defender,Brighton & Hove Albion,2166,Spain,25,0,1,0,0,3,4,0
+Mathew Ryan,30,4/8/1992,Goalkeeper,Brighton & Hove Albion,3060,Australia,34,0,0,0,0,6,2,0
+Max Harrison Sanders,23,1/4/1999,Midfielder,Brighton & Hove Albion,0,England,0,0,0,0,0,0,0,0
+Pascal Groß,31,6/15/1991,Midfielder,Brighton & Hove Albion,1878,Germany,25,3,3,1,1,3,1,0
+Shane Duffy,30,1/1/1992,Defender,Brighton & Hove Albion,3088,Republic of Ireland,35,5,1,0,0,7,5,1
+Solly March,28,7/20/1994,Midfielder,Brighton & Hove Albion,2473,England,35,1,5,0,0,6,1,0
+Viktor Gyökeres,24,6/4/1998,Forward,Brighton & Hove Albion,0,Sweden,0,0,0,0,0,0,0,0
+Yves Bissouma,26,8/30/1996,Midfielder,Brighton & Hove Albion,1769,Mali,28,0,0,0,0,5,5,0
+Aaron Lennon,35,4/16/1987,Midfielder,Burnley,1217,England,16,1,1,0,0,4,1,0
+Ali Koiki,22,8/22/2000,Defender,Burnley,0,England,0,0,0,0,0,0,0,0
+Anthony Driscoll-Glennon,22,11/26/1999,Defender,Burnley,0,England,0,0,0,0,0,0,0,0
+Ashley Barnes,32,10/30/1989,Forward,Burnley,2400,England,37,12,2,2,0,8,8,0
+Ashley Westwood,32,4/1/1990,Midfielder,Burnley,2822,England,34,2,7,0,0,7,5,0
+Ben Gibson,29,1/15/1993,Defender,Burnley,63,England,1,1,0,0,0,0,1,0
+Ben Mee,33,9/21/1989,Defender,Burnley,3420,England,38,0,2,0,0,8,9,0
+Charlie Taylor,29,9/18/1993,Defender,Burnley,3240,England,38,0,1,0,0,8,2,0
+Chris Wood,30,12/7/1991,Forward,Burnley,2582,New Zealand,38,10,2,0,0,8,2,0
+Dwight McNeil,22,11/22/1999,Forward,Burnley,1599,England,21,3,5,0,0,4,2,0
+Jack Cork,33,6/25/1989,Midfielder,Burnley,3313,England,37,1,2,0,0,8,6,0
+James Tarkowski,29,11/19/1992,Defender,Burnley,3087,England,35,3,1,0,0,7,8,0
+Jeff Hendrick,30,1/31/1992,Midfielder,Burnley,2069,Republic of Ireland,32,3,0,0,0,6,4,0
+Joe Hart,35,4/19/1987,Goalkeeper,Burnley,1710,England,19,0,0,0,0,4,0,0
+Johann Berg Guðmunds­son,32,10/27/1990,Midfielder,Burnley,1748,Iceland,29,3,6,0,0,6,2,0
+Jonathan Walters,39,9/20/1983,Forward,Burnley,0,Republic of Ireland,0,0,0,0,0,0,0,0
+Josh Benson,22,12/5/1999,Midfielder,Burnley,0,England,0,0,0,0,0,0,0,0
+Kevin Long,32,8/18/1990,Defender,Burnley,513,Republic of Ireland,6,0,1,0,0,1,0,0
+Matěj Vydra,30,5/1/1992,Forward,Burnley,311,Czech Republic,13,1,1,0,0,1,1,0
+Matthew Lowton,33,6/9/1989,Defender,Burnley,1748,England,21,0,0,0,0,4,7,0
+Peter Crouch,41,1/30/1981,Forward,Burnley,86,England,6,0,0,0,0,0,1,0
+Phil Bardsley,37,6/28/1985,Defender,Burnley,1672,Scotland,19,0,0,0,0,4,9,0
+Robbie Brady,30,1/14/1992,Midfielder,Burnley,715,Republic of Ireland,16,0,1,0,0,2,4,1
+Sam Vokes,33,10/21/1989,Forward,Burnley,913,Wales,20,3,0,0,0,4,0,0
+Stephen Ward,37,8/20/1985,Defender,Burnley,230,Republic of Ireland,3,0,0,0,0,1,1,0
+Steven Defour,34,4/15/1988,Midfielder,Burnley,452,Belgium,6,0,0,0,0,1,0,0
+Tom Heaton,36,4/15/1986,Goalkeeper,Burnley,1710,England,19,0,0,0,0,4,3,0
+Alex Smithies,32,3/5/1990,Goalkeeper,Cardiff City,0,England,0,0,0,0,0,0,0,0
+Aron Einar Gunnarsson,33,4/22/1989,Midfielder,Cardiff City,2274,Iceland,28,1,1,0,0,8,5,0
+Bobby Reid,29,2/2/1993,Midfielder,Cardiff City,1422,England,27,5,2,1,0,6,0,0
+Brian Murphy,39,5/7/1983,Goalkeeper,Cardiff City,0,Republic of Ireland,0,0,0,0,0,0,0,0
+Bruno Écuélé Manga,34,7/16/1988,Defender,Cardiff City,3375,Gabon,38,0,1,0,0,10,0,0
+Callum Paterson,28,10/13/1994,Defender,Cardiff City,1996,Scotland,27,4,1,0,0,7,4,0
+Danny Ward,31,12/9/1990,Forward,Cardiff City,440,England,14,1,0,0,0,2,0,0
+David Junior Hoilett,32,6/5/1990,Forward,Cardiff City,2142,Canada,32,3,1,0,0,9,4,0
+Gary Madine,32,8/24/1990,Forward,Cardiff City,32,England,5,0,0,0,0,0,0,0
+Greg Cunningham,31,1/31/1991,Defender,Cardiff City,630,Republic of Ireland,7,0,0,0,0,1,3,0
+Harry Arter,32,12/28/1989,Midfielder,Cardiff City,2008,Republic of Ireland,25,0,1,0,0,7,10,0
+Jazz Richards,31,4/12/1991,Defender,Cardiff City,128,Wales,4,0,0,0,0,1,0,0
+Joe Bennett,32,3/28/1990,Defender,Cardiff City,2641,England,30,0,1,0,0,9,5,0
+Joe Ralls,29,10/13/1993,Midfielder,Cardiff City,1959,England,28,0,0,0,1,8,5,1
+Josh Murphy,27,2/24/1995,Forward,Cardiff City,1825,England,29,3,2,0,0,7,2,0
+Kadeem Harris,29,6/8/1993,Midfielder,Cardiff City,366,England,13,1,0,0,0,4,1,0
+Kenneth Dahrup Zohorè,28,1/31/1994,Forward,Cardiff City,746,Denmark,19,1,1,0,0,5,1,0
+Leandro Bacuna,31,8/21/1991,Midfielder,Cardiff City,554,Curaçao,11,0,0,0,0,4,2,0
+Lee Peltier,35,12/11/1986,Defender,Cardiff City,1542,England,20,0,0,0,0,6,4,0
+Loïc Damour,31,1/8/1991,Midfielder,Cardiff City,21,France,2,0,0,0,0,0,0,0
+Matthew Connolly,35,9/24/1987,Defender,Cardiff City,0,England,0,0,0,0,0,0,0,0
+Nathaniel Mendez-Laing,30,4/15/1992,Midfielder,Cardiff City,984,England,20,4,1,1,0,6,0,0
+Neil Leonard Dula Etheridge,32,2/7/1990,Goalkeeper,Cardiff City,3420,Philippines,38,0,0,0,0,10,2,0
+Oumar Niasse,32,4/18/1990,Forward,Cardiff City,998,Senegal,18,0,0,0,0,3,0,0
+Rhys Healey,27,12/6/1994,Forward,Cardiff City,49,England,3,0,0,0,0,1,0,0
+Sean Morrison,31,1/8/1991,Defender,Cardiff City,3040,England,34,1,3,0,0,9,6,0
+Souleymane Bamba,37,1/13/1985,Defender,Cardiff City,2475,Ivory Coast,28,4,1,0,0,7,7,0
+Víctor Camarasa,28,5/28/1994,Midfielder,Cardiff City,2579,Spain,32,5,4,1,0,8,6,0
+Alvaro Morata,30,10/23/1992,Forward,Chelsea,943,Spain,16,5,0,0,0,9,3,0
+Andreas Christensen,26,4/10/1996,Defender,Chelsea,615,Denmark,8,0,0,0,0,3,1,0
+Antonio Rüdiger,29,3/3/1993,Defender,Chelsea,2874,Germany,33,1,0,0,0,12,7,0
+Callum Hudson-Odoi,21,11/7/2000,Midfielder,Chelsea,391,England,10,0,1,0,0,3,0,0
+Cesar Azpilicueta,33,8/28/1989,Defender,Chelsea,3403,Spain,38,1,5,0,0,16,4,0
+Cesc Fabregas,35,5/4/1987,Midfielder,Chelsea,175,Spain,6,0,0,0,0,3,1,0
+Danny Drinkwater,32,3/5/1990,Midfielder,Chelsea,0,England,0,0,0,0,0,0,0,0
+David Luiz,35,4/22/1987,Defender,Chelsea,3239,Brazil,36,3,2,0,0,16,3,0
+Davide Zappacosta,30,6/11/1992,Defender,Chelsea,125,Italy,4,0,0,0,0,3,0,0
+Eden Hazard,31,1/7/1991,Midfielder,Chelsea,2926,Belgium,37,16,15,4,0,15,2,0
+Emerson Palmieri,28,8/3/1994,Defender,Chelsea,660,Italy,10,0,0,0,0,3,0,0
+Ethan Ampadu,22,9/14/2000,Midfielder,Chelsea,0,Wales,0,0,0,0,0,0,0,0
+Gary Cahill,36,12/19/1985,Defender,Chelsea,22,England,2,0,0,0,0,2,0,0
+Gonzalo Higuain,34,12/10/1987,Forward,Chelsea,1092,Argentina,14,5,0,0,0,5,0,0
+Jorginho,30,12/20/1991,Midfielder,Chelsea,3165,Italy,37,2,0,1,0,16,8,0
+Kepa Arrizabalaga,28,10/3/1994,Goalkeeper,Chelsea,3240,Spain,36,0,0,0,0,14,2,0
+Marc Guehi,22,7/13/2000,Defender,Chelsea,0,England,0,0,0,0,0,0,0,0
+Marcos Alonso,31,12/28/1990,Defender,Chelsea,2761,Spain,31,2,4,0,0,14,6,0
+Mateo Kovačić,28,5/6/1994,Midfielder,Chelsea,1743,Croatia,32,0,2,0,0,12,3,0
+N'Golo Kanté,31,3/29/1991,Midfielder,Chelsea,3096,France,36,4,4,0,0,15,3,0
+Olivier Giroud,36,9/30/1986,Forward,Chelsea,832,France,27,2,4,0,0,12,1,0
+Pedro Rodriguez,35,7/28/1987,Midfielder,Chelsea,1780,Spain,31,8,2,0,0,11,2,0
+Ross Barkley,28,12/5/1993,Midfielder,Chelsea,1241,England,27,3,5,0,0,11,1,0
+Ruben Loftus-Cheek,26,1/23/1996,Midfielder,Chelsea,983,England,24,6,2,0,0,12,0,0
+Victor Moses,31,12/12/1990,Midfielder,Chelsea,26,Nigeria,2,0,0,0,0,1,0,0
+Willian,34,8/9/1988,Forward,Chelsea,2108,Brazil,32,3,6,0,0,13,2,0
+Willy Caballero,41,9/28/1981,Goalkeeper,Chelsea,180,Argentina,2,0,0,0,0,2,0,0
+Aaron Wan-Bissaka,24,11/26/1997,Midfielder,Crystal Palace,3135,England,35,0,3,0,0,12,5,1
+Alexander Sørloth,26,12/5/1995,Forward,Crystal Palace,173,Norway,12,0,0,0,0,4,0,0
+Andros Townsend,31,7/16/1991,Midfielder,Crystal Palace,3018,England,38,6,4,0,0,12,1,0
+Bakary Sako,34,4/26/1988,Midfielder,Crystal Palace,25,Mali,4,0,0,0,0,1,0,0
+Cheikhou Kouyaté,32,12/21/1989,Midfielder,Crystal Palace,1897,Senegal,31,0,2,0,0,11,3,0
+Christian Benteke,31,12/3/1990,Forward,Crystal Palace,813,Belgium,16,1,1,0,0,5,1,0
+Connor Wickham,29,3/31/1993,Forward,Crystal Palace,61,England,6,0,1,0,0,2,0,0
+Jaïro Riedewald,26,9/9/1996,Defender,Crystal Palace,0,Netherlands,0,0,0,0,0,0,0,0
+James McArthur,35,10/7/1987,Midfielder,Crystal Palace,3071,Scotland,38,3,6,0,0,12,7,0
+James Tomkins,33,3/29/1989,Defender,Crystal Palace,2563,England,29,1,1,0,0,10,6,0
+Jeffrey Schlupp,29,12/23/1992,Defender,Crystal Palace,1665,Ghana,30,4,1,0,0,8,1,0
+Joe Daniel Tupper,24,11/15/1997,Goalkeeper,Crystal Palace,0,England,0,0,0,0,0,0,0,0
+Joel Ward,32,10/29/1989,Defender,Crystal Palace,551,England,7,1,0,0,0,0,1,0
+Jordan Ayew,31,9/11/1991,Forward,Crystal Palace,1186,Ghana,20,1,2,0,0,6,3,0
+Julián Speroni,43,5/18/1979,Goalkeeper,Crystal Palace,90,Argentina,1,0,0,0,0,0,0,0
+Luka Milivojević,31,4/7/1991,Midfielder,Crystal Palace,3420,Serbia,38,12,2,10,1,12,10,0
+Luke Dreher,23,11/27/1998,Midfielder,Crystal Palace,0,England,1,0,0,0,0,0,0,0
+Mamadou Sakho,32,2/13/1990,Defender,Crystal Palace,2417,France,27,0,0,0,0,9,2,0
+Martin Kelly,32,4/27/1990,Defender,Crystal Palace,1110,England,13,0,0,0,0,3,2,0
+Max Meyer,27,9/18/1995,Midfielder,Crystal Palace,1414,Germany,29,1,2,0,0,8,3,0
+Michy Batshuayi,29,10/2/1993,Forward,Crystal Palace,756,Belgium,11,5,0,0,0,3,0,0
+Nikola Tavares,23,1/17/1999,Defender,Crystal Palace,0,England,0,0,0,0,0,0,0,0
+Pape N'Diaye Souaré,32,6/6/1990,Defender,Crystal Palace,0,Senegal,1,0,0,0,0,1,0,0
+Patrick van Aanholt,32,8/29/1990,Defender,Crystal Palace,3198,Netherlands,36,3,2,0,0,12,3,0
+Sam Woods,24,9/11/1998,Defender,Crystal Palace,0,England,0,0,0,0,0,0,0,0
+Scott Dann,35,2/14/1987,Defender,Crystal Palace,660,England,10,0,1,0,0,3,1,0
+Sullay Kaikai,27,8/26/1995,Midfielder,Crystal Palace,0,England,0,0,0,0,0,0,0,0
+Vicente Guaita,35,1/10/1987,Goalkeeper,Crystal Palace,1755,Spain,20,0,0,0,0,7,2,0
+Wayne Hennessey,35,1/24/1987,Goalkeeper,Crystal Palace,1575,Wales,18,0,0,0,0,5,0,0
+Wilfried Zaha,29,11/10/1992,Midfielder,Crystal Palace,3041,Ivory Coast,34,10,5,0,0,10,10,1
+Ademola Lookman,25,10/20/1997,Forward,Everton,601,England,21,0,2,0,0,8,0,0
+André Gomes,29,7/30/1993,Midfielder,Everton,1986,Portugal,27,1,1,0,0,10,7,0
+Bernard Anício Caldeira Duarte,30,9/8/1992,Midfielder,Everton,2128,Brazil,34,1,3,0,0,14,5,0
+Cenk Tosun,31,6/7/1991,Forward,Everton,1050,Turkey,25,3,3,0,0,7,3,0
+Dominic Calvert-Lewin,25,3/16/1997,Forward,Everton,1774,England,35,6,2,0,0,13,3,0
+Gylfi Sigurdsson,33,9/8/1989,Midfielder,Everton,3134,Iceland,38,13,6,2,3,14,3,0
+Idrissa Gueye,33,9/26/1989,Midfielder,Everton,2825,Senegal,33,0,2,0,0,13,6,0
+James McCarthy,31,11/12/1990,Midfielder,Everton,14,Republic of Ireland,1,0,0,0,0,1,0,0
+Jonjoe Kenny,25,3/15/1997,Defender,Everton,790,England,10,0,1,0,0,2,1,0
+Jordan Pickford,28,3/7/1994,Goalkeeper,Everton,3420,England,38,0,0,0,0,14,1,0
+Kieran Dowell,25,10/10/1997,Midfielder,Everton,0,England,0,0,0,0,0,0,0,0
+Kurt Zouma,28,10/27/1994,Defender,Everton,2610,France,32,2,2,0,0,11,5,1
+Leighton Baines,37,12/11/1984,Defender,Everton,376,England,6,0,0,0,0,1,0,0
+Lucas Digne,29,7/20/1993,Defender,Everton,2990,France,35,4,4,0,0,14,6,1
+Maarten Stekelenburg,40,9/22/1982,Goalkeeper,Everton,0,Netherlands,0,0,0,0,0,0,0,0
+Mason Holgate,26,10/22/1996,Defender,Everton,407,England,5,0,0,0,0,0,1,0
+Michael Keane,29,1/11/1993,Defender,Everton,2970,England,33,1,2,0,0,13,2,0
+Morgan Schneiderlin,32,11/8/1989,Midfielder,Everton,833,France,14,0,1,0,0,7,2,0
+Phil Jagielka,40,8/17/1982,Defender,Everton,329,England,7,1,0,0,0,5,1,1
+Richarlison,25,5/10/1997,Forward,Everton,2679,Brazil,35,13,1,0,0,14,6,1
+Sandro Ramirez,27,7/9/1995,Forward,Everton,0,Spain,0,0,0,0,0,0,0,0
+Séamus Coleman,34,10/11/1988,Defender,Everton,2560,Republic of Ireland,29,2,2,0,0,13,1,0
+Theo Walcott,33,3/16/1989,Forward,Everton,2122,England,37,5,2,0,0,13,1,0
+Tom Davies,24,6/30/1998,Midfielder,Everton,975,England,16,0,0,0,0,5,3,0
+Tyias Browning,28,5/27/1994,Defender,Everton,0,England,0,0,0,0,0,0,0,0
+Yerry Mina,28,9/23/1994,Defender,Everton,890,Colombia,13,1,0,0,0,4,3,0
+Aboubakar Kamara,27,3/7/1995,Forward,Fulham,687,France,13,3,0,1,1,2,2,0
+Aleksandar Mitrović,28,9/16/1994,Forward,Fulham,3282,Serbia,37,11,3,1,0,5,7,0
+Alfie Mawson,28,1/19/1994,Defender,Fulham,1131,England,15,0,0,0,0,3,2,0
+André Schürrle,31,11/6/1990,Midfielder,Fulham,1650,Germany,24,6,0,0,0,1,2,0
+André-Frank Zambo Anguissa,26,11/16/1995,Midfielder,Fulham,1518,Cameroon,22,0,0,0,0,3,3,1
+Calum Chambers,27,1/20/1995,Defender,Fulham,2587,England,31,2,0,0,0,5,9,0
+Cyrus Christie,30,9/30/1992,Defender,Fulham,1943,Republic of Ireland,28,0,1,0,0,5,7,0
+Denis Odoi,34,5/27/1988,Defender,Fulham,2593,Belgium,31,0,1,0,0,5,4,0
+Fabricio Martín Agosto Ramírez,34,12/31/1987,Goalkeeper,Fulham,180,Spain,2,0,0,0,0,0,0,0
+Floyd Ayité,33,12/15/1988,Midfielder,Fulham,465,Togo,16,1,0,0,0,3,0,0
+Håvard Nordtveit,32,6/21/1990,Midfielder,Fulham,361,Norway,5,0,1,0,0,1,0,0
+Ibrahima Cissé,28,2/28/1994,Midfielder,Fulham,87,Belgium,3,0,0,0,0,0,0,0
+Jean Michau00ebl Seri,31,7/19/1991,Midfielder,Fulham,2252,Ivory Coast,32,1,2,0,0,4,6,0
+Joe Bryan,29,9/17/1993,Defender,Fulham,2350,England,28,0,1,0,0,5,5,0
+Kevin McDonald,33,11/4/1988,Midfielder,Fulham,842,Scotland,15,0,0,0,0,0,6,1
+Lazar Marković,28,3/2/1994,Midfielder,Fulham,44,Serbia,1,0,0,0,0,0,0,0
+Luca de la Torre,24,5/23/1998,Midfielder,Fulham,0,USA,0,0,0,0,0,0,0,0
+Luciano Vietto,28,12/5/1993,Forward,Fulham,983,Argentina,20,1,4,0,0,1,1,0
+Marcus Bettinelli,30,5/24/1992,Goalkeeper,Fulham,630,England,7,0,0,0,0,0,1,0
+Maxime Le Marchand,33,10/11/1989,Defender,Fulham,2251,France,26,0,1,0,0,4,5,0
+Neeskens Kebano,30,3/10/1992,Midfielder,Fulham,103,Congo DR,7,0,0,0,0,0,0,0
+Ryan Guno Babel,35,12/19/1986,Forward,Fulham,1260,Netherlands,16,5,3,0,0,3,3,0
+Ryan Sessegnon,22,5/18/2000,Defender,Fulham,2298,England,35,2,6,0,0,4,0,0
+Sergio Rico,29,9/1/1993,Goalkeeper,Fulham,2610,Spain,29,0,0,0,0,5,1,0
+Stefan Marius Johansen,31,1/8/1991,Midfielder,Fulham,412,Norway,12,0,0,0,0,0,4,0
+Tim Ream,35,10/5/1987,Defender,Fulham,2051,USA,26,0,0,0,0,5,1,0
+Timothy Fosu-Mensah,24,1/2/1998,Defender,Fulham,795,Netherlands,12,0,0,0,0,1,3,0
+Tom Cairney,31,1/20/1991,Midfielder,Fulham,2198,Scotland,31,1,1,0,0,4,0,0
+Zeze  Steven Sessegnon,22,5/18/2000,Defender,Fulham,0,England,0,0,0,0,0,0,0,0
+Aaron Mooy,32,9/15/1990,Midfielder,Huddersfield Town,2327,Australia,29,3,1,1,0,4,4,0
+Aaron Rowe,22,9/7/2000,Forward,Huddersfield Town,69,England,2,0,0,0,0,0,0,0
+Abdelhamid Sabiri,25,11/28/1996,Midfielder,Huddersfield Town,49,Morocco,2,0,0,0,0,0,0,0
+Adama Diakhaby,26,7/5/1996,Forward,Huddersfield Town,551,France,12,0,0,0,0,1,1,0
+Alex Pritchard,29,5/3/1993,Midfielder,Huddersfield Town,2092,England,30,2,0,0,0,4,2,0
+Ben Hamer,34,11/20/1987,Goalkeeper,Huddersfield Town,553,England,7,0,0,0,0,1,0,0
+Chris Löwe,33,4/16/1989,Defender,Huddersfield Town,2056,Germany,29,0,2,0,0,1,2,0
+Christopher Schindler,32,4/29/1990,Defender,Huddersfield Town,3262,Germany,37,1,0,0,0,5,6,1
+Collin Quaner,31,6/18/1991,Forward,Huddersfield Town,37,Germany,2,0,0,0,0,0,0,0
+Daniel Williams,33,3/8/1989,Midfielder,Huddersfield Town,93,USA,5,0,0,0,0,1,1,0
+Demeaco Duhaney,24,10/13/1998,Defender,Huddersfield Town,46,England,1,0,0,0,0,1,0,0
+Elias Kachunga,30,4/22/1992,Forward,Huddersfield Town,1181,Congo DR,20,0,0,0,0,2,2,0
+Erik Durm,30,5/12/1992,Defender,Huddersfield Town,2052,Germany,28,0,1,0,0,3,0,0
+Florent Hadergjonaj,28,7/31/1994,Defender,Huddersfield Town,1840,Switzerland,24,0,0,0,0,4,1,0
+Isaac Mbenza,26,3/8/1996,Forward,Huddersfield Town,981,Belgium,22,1,1,0,0,4,1,0
+Jason Puncheon,36,6/26/1986,Midfielder,Huddersfield Town,391,England,11,0,0,0,0,3,1,0
+Joel Coleman,27,9/26/1995,Goalkeeper,Huddersfield Town,90,England,1,0,0,0,0,0,0,0
+Jon Gorenc Stankovič,26,1/14/1996,Defender,Huddersfield Town,718,Slovenia,11,1,0,0,0,2,2,0
+Jonas Lössl,33,2/1/1989,Goalkeeper,Huddersfield Town,2777,Denmark,31,0,1,0,0,5,1,0
+Jonathan Hogg,33,12/6/1988,Midfielder,Huddersfield Town,2377,England,29,0,1,0,0,5,9,1
+Juninho Bacuna,25,8/7/1997,Midfielder,Huddersfield Town,1414,Netherlands,21,1,0,0,0,2,4,0
+Karlan Ahearne-Grant,24,12/19/1997,Forward,Huddersfield Town,874,England,13,4,0,0,0,1,0,0
+Laurent Depoitre,33,12/7/1988,Forward,Huddersfield Town,1059,Belgium,23,0,1,0,0,3,1,0
+Mathias Jørgensen,32,4/23/1990,Defender,Huddersfield Town,2148,Denmark,24,3,1,0,0,3,6,0
+Matty Daly,21,3/10/2001,Midfielder,Huddersfield Town,73,England,2,0,0,0,0,0,0,0
+Philip Billing,26,6/11/1996,Midfielder,Huddersfield Town,2192,Denmark,27,2,0,0,0,5,7,0
+Rajiv van La Parra,31,6/4/1991,Midfielder,Huddersfield Town,407,Netherlands,5,0,0,0,0,1,0,0
+Ramadan Sobhi,25,1/23/1997,Forward,Huddersfield Town,75,Egypt,4,0,0,0,0,0,0,0
+Ryan Schofield,22,12/11/1999,Goalkeeper,Huddersfield Town,0,England,0,0,0,0,0,0,0,0
+Steve Mounié,28,9/29/1994,Forward,Huddersfield Town,1777,Benin,31,2,3,0,0,5,2,1
+Terence Kongolo,28,2/14/1994,Defender,Huddersfield Town,2722,Netherlands,32,1,1,0,0,4,4,0
+Tom Smith,30,4/14/1992,Defender,Huddersfield Town,1141,England,15,0,0,0,0,1,3,1
+Adrien Sebastian Perruchet Silva,33,3/15/1989,Midfielder,Leicester City,88,Portugal,2,0,0,0,0,1,0,0
+Ben Chilwell,25,12/21/1996,Defender,Leicester City,3240,England,36,0,4,0,0,10,4,0
+Caglar Söyüncü,26,5/23/1996,Defender,Leicester City,371,Turkey,6,0,0,0,0,2,1,0
+Christian Fuchs,36,4/7/1986,Defender,Leicester City,206,Austria,3,0,0,0,0,0,0,0
+Daniel Amartey,27,12/21/1994,Midfielder,Leicester City,640,Ghana,9,0,0,0,0,2,2,0
+Danny Simpson,35,1/4/1987,Defender,Leicester City,291,England,6,0,0,0,0,3,0,0
+Danny Ward,29,6/22/1993,Goalkeeper,Leicester City,0,Wales,0,0,0,0,0,0,0,0
+Demarai Gray,26,6/28/1996,Midfielder,Leicester City,1992,England,34,4,1,0,0,8,2,0
+Fousseni Diabaté,27,10/18/1995,Midfielder,Leicester City,55,Mali,1,0,0,0,0,0,0,0
+Hamza Choudhury,25,10/1/1997,Midfielder,Leicester City,596,England,9,0,0,0,0,4,0,0
+Harry Maguire,29,3/5/1993,Defender,Leicester City,2599,England,31,3,0,0,0,7,7,1
+Harvey Barnes,24,12/9/1997,Midfielder,Leicester City,1007,England,16,1,2,0,0,3,0,0
+James Maddison,25,11/23/1996,Midfielder,Leicester City,2850,England,36,7,7,1,1,8,5,1
+Jamie Vardy,35,1/11/1987,Forward,Leicester City,2735,England,34,18,4,4,1,10,4,1
+Jonny Evans,34,1/3/1988,Defender,Leicester City,1995,Northern Ireland,24,1,0,0,0,8,2,0
+Josh Knight,25,9/7/1997,Defender,Leicester City,0,England,0,0,0,0,0,0,0,0
+Kasper Schmeichel,35,11/5/1986,Goalkeeper,Leicester City,3420,Denmark,38,0,0,0,0,10,3,0
+Kelechi Iheanacho,26,10/3/1996,Forward,Leicester City,926,Nigeria,30,1,3,0,0,6,2,0
+Marc Albrighton,32,11/18/1989,Midfielder,Leicester City,1626,England,27,2,2,0,0,9,3,0
+Nampalys Mendy,30,6/23/1992,Midfielder,Leicester City,2088,France,31,0,0,0,0,9,5,0
+Rachid Ghezzal,30,5/9/1992,Forward,Leicester City,738,Algeria,19,1,0,0,0,3,3,0
+Ricardo Pereira,29,10/6/1993,Defender,Leicester City,3125,Portugal,35,2,6,0,0,10,7,0
+Shinji Okazaki,36,4/16/1986,Forward,Leicester City,269,Japan,21,0,1,0,0,2,0,0
+Vicente Iborra De La Fuente,34,1/16/1988,Midfielder,Leicester City,226,Spain,8,0,0,0,0,3,0,0
+Wes Morgan,38,1/21/1984,Defender,Leicester City,1926,Jamaica,22,3,0,0,0,6,5,2
+Wilfred Ndidi,25,12/16/1996,Midfielder,Leicester City,3299,Nigeria,38,2,0,0,0,10,8,0
+Youri Tielemans,25,5/7/1997,Midfielder,Leicester City,1092,Belgium,13,3,4,0,0,3,2,0
+Adam Lallana,34,5/10/1988,Midfielder,Liverpool,465,England,13,0,0,0,0,6,1,0
+Alberto Moreno,30,7/5/1992,Defender,Liverpool,155,Spain,2,0,0,0,0,0,0,0
+Alex Oxlade-Chamberlain,29,8/15/1993,Midfielder,Liverpool,19,England,2,0,0,0,0,2,0,0
+Alisson Becker,30,10/2/1992,Goalkeeper,Liverpool,3420,Brazil,38,0,0,0,0,21,1,0
+Andrew Robertson,28,3/11/1994,Defender,Liverpool,3219,Scotland,36,0,11,0,0,21,4,0
+Curtis Jones,21,1/30/2001,Midfielder,Liverpool,0,England,0,0,0,0,0,0,0,0
+Daniel Sturridge,33,9/1/1989,Forward,Liverpool,496,England,18,2,1,0,0,10,1,0
+Dejan Lovren,33,7/5/1989,Defender,Liverpool,985,Croatia,13,1,0,0,0,6,1,0
+Divock Origi,27,4/18/1995,Forward,Liverpool,366,Belgium,12,3,1,0,0,7,0,0
+Fabinho,29,10/23/1993,Midfielder,Liverpool,2013,Brazil,28,1,2,0,0,15,6,0
+Georginio Wijnaldum,31,11/11/1990,Midfielder,Liverpool,2735,Netherlands,35,3,0,0,0,21,3,0
+James Milner,36,1/4/1986,Midfielder,Liverpool,1785,England,31,5,4,3,0,18,7,1
+Joe Gomez,25,5/23/1997,Defender,Liverpool,1060,England,16,0,0,0,0,11,2,0
+Joel Matip,31,8/8/1991,Defender,Liverpool,1532,Cameroon,22,1,0,0,0,11,3,0
+Jordan Henderson,32,6/17/1990,Midfielder,Liverpool,1983,England,32,1,3,0,0,19,3,1
+Loris Karius,29,6/22/1993,Goalkeeper,Liverpool,0,Germany,0,0,0,0,0,0,0,0
+Mohamed Salah,30,6/15/1992,Forward,Liverpool,3262,Egypt,38,22,8,3,0,21,1,0
+Naby Keïta,27,2/10/1995,Midfielder,Liverpool,1392,Guinea,25,2,1,0,0,15,0,0
+Rafael Euclides Soares Camacho,22,5/22/2000,Midfielder,Liverpool,0,Portugal,1,0,0,0,0,0,0,0
+Roberto Firmino,31,10/2/1991,Forward,Liverpool,2620,Brazil,34,12,6,1,0,18,0,0
+Sadio Mané,30,4/10/1992,Forward,Liverpool,3086,Senegal,36,22,1,0,0,20,2,0
+Simon Mignolet,34,3/6/1988,Goalkeeper,Liverpool,0,Belgium,0,0,0,0,0,0,0,0
+Trent Alexander-Arnold,24,10/7/1998,Defender,Liverpool,2467,England,29,1,12,0,0,16,3,0
+Virgil van Dijk,31,7/8/1991,Defender,Liverpool,3385,Netherlands,38,4,2,0,0,21,1,0
+Xherdan Shaqiri,31,10/10/1991,Midfielder,Liverpool,1058,Switzerland,24,6,3,0,0,12,2,0
+Arijanet Muric,23,11/7/1998,Goalkeeper,Manchester City,0,Montenegro,0,0,0,0,0,0,0,0
+Aymeric Laporte,28,5/27/1994,Defender,Manchester City,3057,France,35,3,3,0,0,18,3,0
+Benjamin Mendy,28,7/17/1994,Defender,Manchester City,900,France,10,0,5,0,0,4,1,0
+Bernardo Silva,28,8/10/1994,Midfielder,Manchester City,2853,Portugal,36,7,7,0,0,18,3,0
+Claudio Bravo,39,4/13/1983,Goalkeeper,Manchester City,0,Chile,0,0,0,0,0,0,0,0
+Danilo,31,7/15/1991,Defender,Manchester City,806,Brazil,11,1,0,0,0,5,1,0
+David Silva,36,1/8/1986,Midfielder,Manchester City,2411,Spain,33,6,8,0,0,17,3,0
+Ederson,29,8/17/1993,Goalkeeper,Manchester City,3420,Brazil,38,0,1,0,0,20,2,0
+Fabian Delph,32,11/21/1989,Midfielder,Manchester City,725,England,11,0,1,0,0,4,2,1
+Fernandinho,37,5/4/1985,Midfielder,Manchester City,2381,Brazil,29,1,3,0,0,16,5,0
+Gabriel Jesus,25,4/3/1997,Forward,Manchester City,1019,Brazil,29,7,3,1,0,16,1,0
+İlkay Gündoğan,32,10/24/1990,Midfielder,Manchester City,2135,Germany,31,6,3,0,0,15,3,0
+John Stones,28,5/28/1994,Defender,Manchester City,1762,England,24,0,0,0,0,13,1,0
+Kevin De Bruyne,31,6/28/1991,Midfielder,Manchester City,974,Belgium,19,2,2,0,0,12,2,0
+Kyle Walker,32,5/28/1990,Defender,Manchester City,2777,England,33,1,1,0,0,18,3,0
+Leroy Sané,26,1/11/1996,Midfielder,Manchester City,1867,Germany,31,10,10,0,0,16,1,0
+Nicolas Otamendi,34,2/12/1988,Defender,Manchester City,1233,Argentina,18,0,0,0,0,10,1,0
+Oleksandr Zinchenko,25,12/15/1996,Midfielder,Manchester City,1153,Ukraine,14,0,3,0,0,10,1,0
+Phil Foden,22,5/28/2000,Midfielder,Manchester City,327,England,13,1,0,0,0,8,0,0
+Philippe Sandler,25,2/10/1997,Defender,Manchester City,0,Netherlands,0,0,0,0,0,0,0,0
+Raheem Sterling,27,12/8/1994,Forward,Manchester City,2777,England,34,17,10,0,0,18,3,0
+Riyad Mahrez,31,2/21/1991,Midfielder,Manchester City,1339,Algeria,27,7,4,0,1,13,0,0
+Sergio Aguero,34,6/2/1988,Forward,Manchester City,2480,Argentina,33,21,8,2,0,19,3,0
+Vincent Kompany,36,4/10/1986,Defender,Manchester City,1223,Belgium,17,1,0,0,0,7,6,0
+Alexis Sanchez,33,12/19/1988,Forward,Manchester United,877,Chile,20,1,3,0,0,6,3,0
+Ander Herrera,33,8/14/1989,Midfielder,Manchester United,1404,Spain,22,2,3,0,0,6,4,0
+Andreas Pereira,26,1/1/1996,Midfielder,Manchester United,595,Brazil,15,1,1,0,0,1,5,0
+Angel Gomes,22,8/31/2000,Midfielder,Manchester United,25,England,2,0,0,0,0,0,0,0
+Anthony Martial,26,12/5/1995,Forward,Manchester United,1623,France,27,10,2,1,0,5,2,0
+Antonio Valencia,37,8/4/1985,Defender,Manchester United,466,Ecuador,6,0,0,0,0,2,2,0
+Ashley Young,37,7/9/1985,Midfielder,Manchester United,2568,England,30,2,2,0,0,4,10,1
+Chris Smalling,32,11/22/1989,Defender,Manchester United,2128,England,24,1,0,0,0,4,1,0
+David de Gea,31,11/7/1990,Goalkeeper,Manchester United,3420,Spain,38,0,0,0,0,7,1,0
+Diogo Dalot,23,3/18/1999,Defender,Manchester United,1015,Portugal,16,0,2,0,0,2,3,0
+Eric Bailly,28,4/12/1994,Defender,Manchester United,637,Ivory Coast,12,0,0,0,0,3,1,1
+Faustino Marcos Alberto Rojo,32,3/20/1990,Defender,Manchester United,211,Argentina,5,0,0,0,0,0,2,0
+Fred,29,3/5/1993,Midfielder,Manchester United,1045,Brazil,17,1,1,0,0,0,2,0
+James Garner,21,3/13/2001,Defender,Manchester United,0,England,1,0,0,0,0,0,0,0
+Jesse Lingard,29,12/15/1992,Midfielder,Manchester United,1668,England,27,4,2,1,0,6,3,0
+Juan Mata,34,4/28/1988,Midfielder,Manchester United,1294,Spain,22,3,2,0,0,4,3,0
+Lee Grant,39,1/27/1983,Goalkeeper,Manchester United,0,England,0,0,0,0,0,0,0,0
+Luke Shaw,27,7/12/1995,Defender,Manchester United,2592,England,29,1,4,0,0,6,11,0
+Marcus Rashford,25,10/31/1997,Forward,Manchester United,2362,England,33,10,6,0,0,6,4,1
+Marouane Fellaini,34,11/22/1987,Midfielder,Manchester United,744,Belgium,14,0,1,0,0,2,1,0
+Mason Greenwood,21,10/1/2001,Midfielder,Manchester United,115,England,3,0,0,0,0,0,0,0
+Matteo Darmian,32,12/2/1989,Defender,Manchester United,443,Italy,6,0,0,0,0,1,0,0
+Nemanja Matić,34,8/1/1988,Midfielder,Manchester United,2441,Serbia,28,1,0,0,0,6,8,1
+Paul Pogba,29,3/15/1993,Midfielder,Manchester United,3011,France,35,13,9,7,3,7,6,0
+Phil Jones,30,2/21/1992,Defender,Manchester United,1263,England,18,0,1,0,0,4,1,0
+Romelu Lukaku,29,5/13/1993,Forward,Manchester United,2130,Belgium,32,12,0,0,0,7,4,0
+Scott McTominay,25,12/8/1996,Midfielder,Manchester United,861,England,16,2,0,0,0,3,1,0
+Sergio Romero,35,2/22/1987,Goalkeeper,Manchester United,0,Argentina,0,0,0,0,0,0,0,0
+Tahith Chong,22,12/4/1999,Forward,Manchester United,36,Netherlands,2,0,0,0,0,0,0,0
+Victor Lindelöf,28,7/17/1994,Defender,Manchester United,2602,Sweden,30,1,1,0,0,6,1,0
+Antonio Barreca,27,3/18/1995,Defender,Newcastle United,4,Italy,1,0,0,0,0,0,0,0
+Ayoze Perez,29,7/29/1993,Forward,Newcastle United,2929,Spain,37,12,2,0,0,11,2,0
+Callum Roberts,25,4/14/1997,Forward,Newcastle United,0,England,0,0,0,0,0,0,0,0
+Christian Atsu Twasam,30,1/10/1992,Midfielder,Newcastle United,1487,Ghana,28,1,0,0,0,8,2,0
+Ciaran Clark,33,9/26/1989,Defender,Newcastle United,857,Republic of Ireland,11,3,0,0,0,2,1,0
+DeAndre Yedlin,29,7/9/1993,Defender,Newcastle United,2475,USA,29,1,2,0,0,6,7,1
+Fabian Schär,30,12/20/1991,Defender,Newcastle United,2002,Switzerland,24,4,1,0,0,8,12,0
+Federico Fernández,33,2/21/1989,Defender,Newcastle United,1484,Argentina,19,0,1,0,0,4,2,0
+Florian Lejeune,31,5/20/1991,Defender,Newcastle United,1055,France,12,0,0,0,0,3,0,0
+Freddie Woodman,25,3/4/1997,Goalkeeper,Newcastle United,0,England,0,0,0,0,0,0,0,0
+Isaac Hayden,27,3/22/1995,Midfielder,Newcastle United,1886,England,25,1,4,0,0,7,4,1
+Jacob Murphy,27,2/24/1995,Midfielder,Newcastle United,300,England,9,0,1,0,0,1,0,0
+Jamaal Lascelles,28,11/11/1993,Defender,Newcastle United,2748,England,32,0,1,0,0,11,4,0
+Jamie Sterry,26,11/21/1995,Defender,Newcastle United,0,England,0,0,0,0,0,0,0,0
+Javier Manquillo,28,5/5/1994,Defender,Newcastle United,1097,Spain,18,0,3,0,0,6,2,0
+Jonjo Shelvey,30,2/27/1992,Midfielder,Newcastle United,944,England,16,1,1,0,0,5,1,0
+Joselu,32,3/27/1990,Forward,Newcastle United,586,Spain,16,2,0,0,0,4,1,0
+Karl Darlow,32,10/8/1990,Goalkeeper,Newcastle United,0,England,0,0,0,0,0,0,0,0
+Kelland Watts,23,11/3/1999,Midfielder,Newcastle United,0,England,0,0,0,0,0,0,0,0
+Ki Sung-yueng,33,1/24/1989,Midfielder,Newcastle United,1302,South Korea,18,0,1,0,0,5,2,0
+Lewis Cass,22,2/27/2000,Defender,Newcastle United,0,England,0,0,0,0,0,0,0,0
+Martin Dúbravka,33,1/15/1989,Goalkeeper,Newcastle United,3420,Slovakia,38,0,0,0,0,11,1,0
+Matt Ritchie,33,9/10/1989,Midfielder,Newcastle United,2940,Scotland,36,2,8,1,1,11,9,0
+Miguel Almirón,28,2/10/1994,Midfielder,Newcastle United,763,Paraguay,10,0,0,0,0,3,0,0
+Mohamed Diamé,35,6/14/1987,Midfielder,Newcastle United,2165,Senegal,29,0,0,0,0,9,3,0
+Paul Dummett,31,9/26/1991,Defender,Newcastle United,1986,Wales,26,0,0,0,0,9,1,0
+Robert Kenedy Nunes do Nascimento,26,2/8/1996,Midfielder,Newcastle United,1344,Brazil,25,1,1,0,1,8,1,0
+Rondon,33,9/16/1989,Forward,Newcastle United,2609,Venezuela,32,11,7,0,0,10,1,0
+Sean Longstaff,25,10/30/1997,Midfielder,Newcastle United,688,England,9,1,0,0,0,3,2,0
+Yoshinori Muto,30,7/15/1992,Forward,Newcastle United,516,Japan,17,1,0,0,0,5,1,0
+Alex McCarthy,32,12/3/1989,Goalkeeper,Southampton,2250,England,25,0,0,0,0,4,1,0
+Alfie Jones,25,10/7/1997,Defender,Southampton,0,England,0,0,0,0,0,0,0,0
+Angus Gunn,26,1/22/1996,Goalkeeper,Southampton,1080,England,12,0,0,0,0,3,0,0
+Callum Slattery,23,2/8/1999,Midfielder,Southampton,110,England,3,0,0,0,0,0,0,0
+Cedric Soares,31,8/31/1991,Defender,Southampton,1494,Portugal,18,1,2,0,0,5,4,0
+Charlie Austin,33,7/5/1989,Forward,Southampton,980,England,25,2,2,0,1,6,1,0
+Danny Ings,30,7/23/1992,Forward,Southampton,1668,England,24,7,3,3,0,6,1,0
+Fraser Forster,34,3/17/1988,Goalkeeper,Southampton,90,England,1,0,0,0,0,0,0,0
+Jack Stephens,28,1/27/1994,Defender,Southampton,1697,England,24,1,0,0,0,5,4,0
+James Ward-Prowse,27,11/1/1994,Midfielder,Southampton,1942,England,26,7,0,1,0,4,4,0
+Jan Bednarek,26,4/12/1996,Defender,Southampton,2151,Poland,25,0,1,0,0,3,7,0
+Jannik Vestergaard,30,8/3/1992,Defender,Southampton,2030,Denmark,23,0,0,0,0,4,2,0
+Joshua Sims,25,3/28/1997,Midfielder,Southampton,209,England,7,0,1,0,0,1,0,0
+Kayne Ramsey,22,10/10/2000,Midfielder,Southampton,90,England,1,0,0,0,0,0,0,0
+Manolo Gabbiadini,30,11/26/1991,Forward,Southampton,470,Italy,12,1,0,0,0,3,0,0
+Mario Lemina,29,9/1/1993,Midfielder,Southampton,1615,Gabon,21,1,1,0,0,4,5,0
+Matt Targett,27,9/18/1995,Defender,Southampton,1185,England,16,1,3,0,0,1,2,0
+Maya Yoshida,34,8/24/1988,Defender,Southampton,1520,Japan,17,0,1,0,0,3,0,0
+Michael Obafemi,22,7/6/2000,Forward,Southampton,134,Republic of Ireland,6,1,1,0,0,0,1,0
+Mohamed Elyounoussi,28,8/4/1994,Midfielder,Southampton,790,Norway,16,0,0,0,0,4,0,0
+Nathan Redmond,28,3/6/1994,Midfielder,Southampton,3276,England,38,6,4,0,0,7,3,0
+Oriol Romeu,31,9/24/1991,Midfielder,Southampton,2140,Spain,31,1,0,0,0,6,11,0
+Pierre-Emile Højbjerg,27,8/5/1995,Midfielder,Southampton,2764,Denmark,31,4,3,0,0,4,10,2
+Ryan Bertrand,33,8/5/1989,Defender,Southampton,2160,England,24,1,0,0,0,6,8,0
+Sam Gallagher,27,9/15/1995,Forward,Southampton,30,England,4,0,0,0,0,1,0,0
+Shane Long,35,1/22/1987,Forward,Southampton,1269,Republic of Ireland,26,5,1,0,0,5,3,0
+Steven Davis,37,1/1/1985,Midfielder,Southampton,96,Northern Ireland,3,0,1,0,0,0,0,0
+Stuart Armstrong,30,3/30/1992,Midfielder,Southampton,1432,Scotland,29,3,2,0,0,4,2,0
+Tyreke Johnson,24,11/3/1998,Defender,Southampton,0,England,1,0,0,0,0,0,0,0
+Wesley Hoedt,28,3/6/1994,Defender,Southampton,1170,Netherlands,13,0,0,0,0,4,2,0
+Yan Valery,23,2/22/1999,Defender,Southampton,1715,France,23,2,1,0,0,3,5,1
+Alfie Whiteman,24,10/2/1998,Goalkeeper,Tottenham Hotspur,0,England,0,0,0,0,0,0,0,0
+Ben Davies,29,4/24/1993,Defender,Tottenham Hotspur,1839,Wales,27,0,0,0,0,10,2,0
+Christian Eriksen,30,2/14/1992,Midfielder,Tottenham Hotspur,2772,Denmark,35,8,12,0,0,10,3,0
+Danny Rose,32,7/2/1990,Defender,Tottenham Hotspur,1806,England,26,0,3,0,0,10,5,0
+Davinson Sánchez,26,6/12/1996,Defender,Tottenham Hotspur,1943,Colombia,23,1,1,0,0,6,2,0
+Dele Alli,26,4/11/1996,Midfielder,Tottenham Hotspur,1827,England,25,5,3,0,0,7,4,0
+Eric Dier,28,1/15/1994,Midfielder,Tottenham Hotspur,1510,England,20,3,0,0,0,6,4,0
+Erik Lamela,30,3/4/1992,Midfielder,Tottenham Hotspur,971,Argentina,19,4,2,0,0,5,2,0
+Fernando Llorente Torres,37,2/26/1985,Forward,Tottenham Hotspur,683,Spain,20,1,4,0,0,7,2,0
+George Marsh,23,11/5/1998,Midfielder,Tottenham Hotspur,0,England,0,0,0,0,0,0,0,0
+Georges-Kevin N'Koudou Mbida,27,2/13/1995,Forward,Tottenham Hotspur,4,France,1,0,1,0,0,0,0,0
+Harry Kane,29,7/28/1993,Forward,Tottenham Hotspur,2427,England,28,17,4,4,0,10,5,0
+Harry Winks,26,2/2/1996,Midfielder,Tottenham Hotspur,1591,England,26,1,0,0,0,10,4,0
+Heung-Min Son,30,7/8/1992,Forward,Tottenham Hotspur,2048,South Korea,31,12,6,0,0,11,3,1
+Hugo Lloris,35,12/26/1986,Goalkeeper,Tottenham Hotspur,2970,France,33,0,0,0,0,12,0,0
+Jan Vertonghen,35,4/24/1987,Defender,Tottenham Hotspur,1915,Belgium,22,1,0,0,0,7,5,1
+Juan Foyth,24,1/12/1998,Defender,Tottenham Hotspur,930,Argentina,12,1,0,0,0,4,4,1
+Kazaiah Sterling,23,11/9/1998,Forward,Tottenham Hotspur,0,England,0,0,0,0,0,0,0,0
+Kieran Trippier,32,9/19/1990,Defender,Tottenham Hotspur,2278,England,27,1,3,0,0,10,2,0
+Kyle Walker-Peters,25,4/13/1997,Defender,Tottenham Hotspur,374,England,6,0,3,0,0,3,1,0
+Lucas Moura,30,8/13/1992,Midfielder,Tottenham Hotspur,2127,Brazil,32,10,0,0,0,12,3,0
+Luke Amos,25,2/23/1997,Midfielder,Tottenham Hotspur,2,England,1,0,0,0,0,0,0,0
+Michel Vorm,39,10/20/1983,Goalkeeper,Tottenham Hotspur,180,Netherlands,2,0,0,0,0,0,0,0
+Moussa Dembele,35,7/16/1987,Midfielder,Tottenham Hotspur,516,Belgium,10,0,0,0,0,3,1,0
+Moussa Sissoko,33,8/16/1989,Midfielder,Tottenham Hotspur,2336,France,29,0,3,0,0,11,2,0
+Oliver Skipp,22,9/16/2000,Midfielder,Tottenham Hotspur,216,England,8,0,0,0,0,4,0,0
+Paulo Gazzaniga,30,1/2/1992,Goalkeeper,Tottenham Hotspur,270,Argentina,3,0,0,0,0,1,0,0
+Serge Aurier,29,12/24/1992,Defender,Tottenham Hotspur,564,Ivory Coast,8,0,2,0,0,3,1,0
+Timothy Eyoma,22,1/29/2000,Defender,Tottenham Hotspur,0,England,0,0,0,0,0,0,0,0
+Toby Alderweireld,33,3/2/1989,Defender,Tottenham Hotspur,2924,Belgium,34,0,0,0,0,12,3,0
+Victor Wanyama,31,6/25/1991,Midfielder,Tottenham Hotspur,509,Kenya,13,1,0,0,0,6,2,0
+Vincent Janssen,28,6/15/1994,Forward,Tottenham Hotspur,36,Netherlands,3,0,0,0,0,1,0,0
+Abdoulaye Doucouré,29,1/1/1993,Midfielder,Watford,3062,France,35,5,6,0,0,5,7,0
+Adalberto Peñaranda Maestre,25,5/31/1997,Forward,Watford,0,Venezuela,0,0,0,0,0,0,0,0
+Adam Masina,28,1/2/1994,Defender,Watford,1003,Italy,14,0,1,0,0,2,5,0
+Adrian Mariappa,36,10/3/1986,Defender,Watford,1921,Jamaica,26,0,0,0,0,6,3,0
+Andre Gray,31,6/26/1991,Forward,Watford,1358,England,29,7,2,0,0,5,2,0
+Ben Foster,39,4/3/1983,Goalkeeper,Watford,3420,England,38,0,0,0,0,7,1,0
+Ben Wilmot,23,11/4/1999,Defender,Watford,26,England,2,0,0,0,0,1,0,0
+Christian Kabasele,31,2/24/1991,Defender,Watford,1587,Belgium,21,0,0,0,0,4,4,1
+Craig Cathcart,33,2/6/1989,Defender,Watford,3099,Northern Ireland,36,3,0,0,0,6,2,0
+Daryl Janmaat,33,7/22/1989,Defender,Watford,1521,Netherlands,18,0,2,0,0,3,3,0
+Domingos Quina,22,11/18/1999,Midfielder,Watford,335,Portugal,8,1,0,0,0,1,0,0
+Étienne Capoue,34,7/11/1988,Midfielder,Watford,2947,France,33,1,3,0,0,7,15,1
+Gerard Deulofeu,28,3/13/1994,Forward,Watford,2082,Spain,30,10,5,0,0,6,3,0
+Heurelho da Silva Gomes,41,2/15/1981,Goalkeeper,Watford,0,Brazil,0,0,0,0,0,0,0,0
+Isaac Success,26,1/7/1996,Forward,Watford,1037,Nigeria,30,1,1,0,0,5,4,0
+José Holebas,38,6/27/1984,Defender,Watford,2394,Greece,28,3,6,0,0,5,13,1
+Ken Sema,29,9/30/1993,Midfielder,Watford,755,Sweden,17,1,2,0,0,6,1,0
+Kiko Femenía,31,2/2/1991,Midfielder,Watford,2045,Spain,29,1,1,0,0,5,1,0
+Marc Navarro Ceciliano,27,7/2/1995,Defender,Watford,84,Spain,2,0,0,0,0,0,0,0
+Miguel Ángel Britos Cabrera,37,7/17/1985,Defender,Watford,185,Uruguay,3,0,0,0,0,1,0,0
+Nathaniel Chalobah,27,12/12/1994,Midfielder,Watford,266,England,9,0,0,0,0,1,2,0
+Roberto Pereyra,31,1/7/1991,Forward,Watford,2825,Argentina,33,6,1,0,0,5,3,0
+Sebastian Prödl,35,6/21/1987,Defender,Watford,13,Austria,1,0,0,0,0,1,0,0
+Stefano Okaka,33,8/9/1989,Forward,Watford,22,Italy,2,0,0,0,0,0,1,0
+Tom Cleverley,33,8/12/1989,Midfielder,Watford,470,England,13,1,0,0,0,4,2,0
+Troy Deeney,34,6/29/1988,Forward,Watford,2548,England,32,9,5,1,0,5,5,1
+Will Hughes,27,4/17/1995,Midfielder,Watford,2436,England,32,2,4,0,0,5,5,0
+Aaron Cresswell,32,12/15/1989,Defender,West Ham United,1589,England,20,0,1,0,0,3,1,0
+Adrián,35,1/3/1987,Goalkeeper,West Ham United,0,Spain,0,0,0,0,0,0,0,0
+Alexandre Nascimento Costa Silva,25,3/16/1997,Forward,West Ham United,17,Portugal,1,0,0,0,0,0,0,0
+Andriy Yarmolenko,33,10/23/1989,Forward,West Ham United,459,Ukraine,9,2,0,0,0,1,2,0
+Andy Carroll,33,1/6/1989,Forward,West Ham United,454,England,12,0,0,0,0,2,2,0
+Angelo Ogbonna,34,5/23/1988,Defender,West Ham United,1870,Italy,24,1,1,0,0,3,2,0
+Arthur Masuaku,28,11/7/1993,Defender,West Ham United,1756,France,23,0,1,0,0,6,2,0
+Ben Johnson,22,1/24/2000,Forward,West Ham United,63,England,1,0,0,0,0,0,0,0
+Carlos Sánchez,36,2/6/1986,Midfielder,West Ham United,240,Colombia,7,0,0,0,0,2,0,0
+Conor Coventry,22,3/25/2000,Midfielder,West Ham United,0,Republic of Ireland,0,0,0,0,0,0,0,0
+Declan Rice,23,1/14/1999,Midfielder,West Ham United,3005,Republic of Ireland,34,2,0,0,0,6,4,0
+Fabián Balbuena,31,8/23/1991,Defender,West Ham United,2014,Paraguay,23,1,0,0,0,5,2,0
+Felipe Anderson,29,4/15/1993,Midfielder,West Ham United,3054,Brazil,36,9,4,0,0,6,3,0
+Grady Diangana,24,4/19/1998,Midfielder,West Ham United,604,England,17,0,1,0,0,2,0,0
+Issa Diop,25,1/9/1997,Defender,West Ham United,2970,France,33,1,0,0,0,7,4,0
+Jack Wilshere,30,1/1/1992,Midfielder,West Ham United,389,England,8,0,1,0,0,2,2,0
+Javier Hernandez,34,6/1/1988,Forward,West Ham United,1335,Mexico,25,7,1,0,0,3,2,0
+Joe Powell,24,10/30/1998,Forward,West Ham United,0,England,0,0,0,0,0,0,0,0
+Lucas Perez,34,9/10/1988,Forward,West Ham United,468,Spain,15,3,0,0,0,3,0,0
+Manuel Lanzini,29,2/15/1993,Midfielder,West Ham United,688,Argentina,10,1,1,0,0,2,2,0
+Mark Noble,35,5/8/1987,Midfielder,West Ham United,2308,England,31,5,5,4,0,7,7,1
+Marko Arnautović,33,4/19/1989,Forward,West Ham United,2000,Austria,28,10,4,1,0,5,3,0
+Michail Antonio,32,3/28/1990,Midfielder,West Ham United,2099,England,33,6,4,0,0,5,3,0
+Nathan Holland,24,6/19/1998,Midfielder,West Ham United,0,England,0,0,0,0,0,0,0,0
+Pablo Zabaleta,37,1/16/1985,Defender,West Ham United,2092,Argentina,26,0,1,0,0,4,4,0
+Pedro Obiang,30,3/27/1992,Midfielder,West Ham United,1121,Equatorial Guinea,24,0,1,0,0,7,0,0
+Robert Snodgrass,35,9/7/1987,Midfielder,West Ham United,2222,Scotland,33,2,5,0,0,6,10,0
+Ryan Fredericks,30,10/10/1992,Midfielder,West Ham United,1085,England,15,1,0,0,0,3,5,0
+Samir Nasri,35,6/26/1987,Midfielder,West Ham United,246,France,5,0,2,0,0,1,0,0
+Łukasz Fabiański,37,4/18/1985,Goalkeeper,West Ham United,3420,Poland,38,0,0,0,0,7,0,0
+Adama Traoré,26,1/25/1996,Midfielder,Wolverhampton Wanderers,890,Spain,29,1,1,0,0,6,1,0
+Bright Enobakhare,24,2/8/1998,Forward,Wolverhampton Wanderers,0,England,0,0,0,0,0,0,0,0
+Cameron John,23,8/24/1999,Defender,Wolverhampton Wanderers,0,England,0,0,0,0,0,0,0,0
+Conor Coady,29,2/25/1993,Midfielder,Wolverhampton Wanderers,3420,England,38,0,0,0,0,9,5,0
+Diogo José Teixeira da Silva,25,12/4/1996,Midfielder,Wolverhampton Wanderers,2371,Portugal,33,9,5,0,0,9,11,0
+Hélder Wander Sousa Azevedo Costa,28,1/12/1994,Midfielder,Wolverhampton Wanderers,1345,Portugal,25,1,2,0,0,5,3,0
+Ivan Ricardo Neves Abreu Cavaleiro,29,10/18/1993,Forward,Wolverhampton Wanderers,683,Portugal,23,3,1,0,0,5,1,0
+João Moutinho,36,9/8/1986,Midfielder,Wolverhampton Wanderers,3040,Portugal,38,1,8,0,0,9,4,0
+John Ruddy,36,10/24/1986,Goalkeeper,Wolverhampton Wanderers,90,England,1,0,0,0,0,1,0,0
+Jonny,28,3/3/1994,Defender,Wolverhampton Wanderers,2780,Spain,33,1,1,0,0,8,6,0
+Kortney Hause,27,7/16/1995,Defender,Wolverhampton Wanderers,0,England,0,0,0,0,0,0,0,0
+Leander Dendoncker,27,4/15/1995,Midfielder,Wolverhampton Wanderers,1469,Belgium,19,2,0,0,0,4,1,0
+Leonardo Bonatini Lohner Maia,28,3/28/1994,Forward,Wolverhampton Wanderers,128,Brazil,7,0,1,0,0,3,0,0
+Matt Doherty,30,1/16/1992,Defender,Wolverhampton Wanderers,3147,Republic of Ireland,38,4,5,0,0,9,5,0
+Max Kilman,25,5/23/1997,Defender,Wolverhampton Wanderers,0,England,1,0,0,0,0,1,0,0
+Morgan Gibbs-White,22,1/27/2000,Midfielder,Wolverhampton Wanderers,647,England,26,0,1,0,0,5,1,0
+Raúl Jiménez,31,5/5/1991,Forward,Wolverhampton Wanderers,3124,Mexico,38,13,7,2,0,9,4,0
+Romain Saïss,32,3/26/1990,Midfielder,Wolverhampton Wanderers,1144,Morocco,19,2,0,0,0,4,7,0
+Rúben Neves,25,3/13/1997,Midfielder,Wolverhampton Wanderers,3009,Portugal,35,4,3,2,0,8,8,0
+Ruben Vinagre,23,4/9/1999,Defender,Wolverhampton Wanderers,703,Portugal,17,0,0,0,0,5,1,0
+Rui Patrício,34,2/15/1988,Goalkeeper,Wolverhampton Wanderers,3330,Portugal,37,0,0,0,0,8,0,0
+Ryan Bennett,32,3/6/1990,Defender,Wolverhampton Wanderers,3060,England,34,1,0,0,0,9,12,0
+Ryan Giles,22,1/26/2000,Midfielder,Wolverhampton Wanderers,0,England,0,0,0,0,0,0,0,0
+Will Norris,29,8/12/1993,Goalkeeper,Wolverhampton Wanderers,0,England,1,0,0,0,0,1,0,0
+Willy Boly,31,2/3/1991,Defender,Wolverhampton Wanderers,3169,France,36,4,0,0,0,8,3,1
