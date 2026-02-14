@@ -62,5 +62,5 @@ The ultimate goal was to enable the bank to proactively identify high-risk custo
 
 ## 🎥 YouTube Walkthrough
  
-https://youtu.be/iOONpQTmotw
+https://youtu.be/8sfXdtYft74
 
