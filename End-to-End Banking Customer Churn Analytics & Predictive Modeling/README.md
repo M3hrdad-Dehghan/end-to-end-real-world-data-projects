@@ -5,9 +5,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Pipeline-End--to--End%20ETL-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tech-SQL%20Transformations-lightblue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud-Integrated%20Pipeline-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistics-Hypothesis%20Testing-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Churn%20Classification-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tableau-Interactive%20Dashboard-purple?style=flat-square"/>
 </p>
 
 ---
