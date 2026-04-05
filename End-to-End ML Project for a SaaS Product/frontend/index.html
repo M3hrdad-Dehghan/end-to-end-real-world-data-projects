@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lead Scoring</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f0f4f8;
+      color: #1a202c;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 700; color: #2d3748; }
+    header p  { color: #718096; margin-top: .4rem; font-size: .95rem; }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,.08);
+      padding: 1.5rem 2rem;
+      max-width: 860px;
+      margin: 0 auto 1.5rem;
+    }
+
+    .card h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #4a5568;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 1.2rem;
+      padding-bottom: .5rem;
+      border-bottom: 2px solid #e2e8f0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+
+    .field { display: flex; flex-direction: column; gap: .35rem; }
+    .field label { font-size: .82rem; font-weight: 600; color: #4a5568; }
+
+    .field input,
+    .field select {
+      padding: .5rem .75rem;
+      border: 1.5px solid #cbd5e0;
+      border-radius: 8px;
+      font-size: .9rem;
+      background: #f7fafc;
+      transition: border-color .15s;
+      width: 100%;
+    }
+    .field input:focus,
+    .field select:focus {
+      outline: none;
+      border-color: #667eea;
+      background: #fff;
+    }
+
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    button {
+      padding: .65rem 2rem;
+      border: none;
+      border-radius: 8px;
+      font-size: .95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity .15s, transform .1s;
+    }
+    button:active { transform: scale(.97); }
+
+    #btn-predict {
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      color: #fff;
+    }
+    #btn-reset {
+      background: #e2e8f0;
+      color: #4a5568;
+    }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+
+    #result-card { display: none; }
+
+    .result-body {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .verdict {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: .3rem;
+    }
+    .verdict-icon { font-size: 3rem; }
+    .verdict-label { font-size: 1.1rem; font-weight: 700; }
+    .verdict-label.positive { color: #38a169; }
+    .verdict-label.negative { color: #e53e3e; }
+
+    .prob-bars { flex: 1; min-width: 200px; }
+    .prob-row { margin-bottom: .75rem; }
+    .prob-row .prob-label {
+      display: flex;
+      justify-content: space-between;
+      font-size: .82rem;
+      font-weight: 600;
+      color: #4a5568;
+      margin-bottom: .3rem;
+    }
+    .bar-track {
+      height: 10px;
+      background: #e2e8f0;
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .bar-fill {
+      height: 100%;
+      border-radius: 99px;
+      transition: width .6s ease;
+    }
+    .bar-fill.yes { background: linear-gradient(90deg, #48bb78, #38a169); }
+    .bar-fill.no  { background: linear-gradient(90deg, #fc8181, #e53e3e); }
+
+    #error-msg {
+      display: none;
+      background: #fff5f5;
+      border: 1.5px solid #fed7d7;
+      color: #c53030;
+      border-radius: 8px;
+      padding: .75rem 1rem;
+      font-size: .9rem;
+      max-width: 860px;
+      margin: 0 auto 1rem;
+    }
+
+    #spinner {
+      display: none;
+      text-align: center;
+      color: #718096;
+      font-size: .9rem;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Lead Scoring</h1>
+  <p>Predict whether a lead will repurchase based on their profile and behavior.</p>
+</header>
+
+<!-- Section: Demographics -->
+<div class="card">
+  <h2>Demographics</h2>
+  <div class="grid">
+    <div class="field">
+      <label for="customer_id">Customer ID</label>
+      <input id="customer_id" type="text" value="CUST-99999" />
+    </div>
+    <div class="field">
+      <label for="age">Age</label>
+      <input id="age" type="number" value="35" />
+    </div>
+    <div class="field">
+      <label for="gender">Gender</label>
+      <select id="gender">
+        <option>Male</option>
+        <option>Female</option>
+        <option>Other</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="country">Country</label>
+      <select id="country">
+        <option>USA</option>
+        <option>Canada</option>
+        <option>UK</option>
+        <option>Germany</option>
+        <option>France</option>
+        <option>India</option>
+        <option>Brazil</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- Section: Company -->
+<div class="card">
+  <h2>Company Info</h2>
+  <div class="grid">
+    <div class="field">
+      <label for="company_size">Company Size</label>
+      <select id="company_size">
+        <option>1 to 10</option>
+        <option>11 to 50</option>
+        <option selected>51 to 200</option>
+        <option>201 to 500</option>
+        <option>Above 500</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="industry">Industry</label>
+      <select id="industry">
+        <option>Tech</option>
+        <option>Finance</option>
+        <option>Healthcare</option>
+        <option>Education</option>
+        <option>Manufacturing</option>
+        <option>Retail</option>
+        <option>Media</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="job_title">Job Title</label>
+      <select id="job_title">
+        <option>Manager</option>
+        <option>CEO</option>
+        <option>CTO</option>
+        <option>Developer</option>
+        <option>Marketing Lead</option>
+        <option>VP Sales</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="annual_company_revenue">Annual Revenue ($)</label>
+      <input id="annual_company_revenue" type="number" value="5000000" />
+    </div>
+    <div class="field">
+      <label for="plan_type">Plan Type</label>
+      <select id="plan_type">
+        <option>Pro</option>
+        <option>Starter</option>
+        <option>Free</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- Section: Purchase Behavior -->
+<div class="card">
+  <h2>Purchase Behavior</h2>
+  <div class="grid">
+    <div class="field">
+      <label for="months_as_customer">Months as Customer</label>
+      <input id="months_as_customer" type="number" value="12" />
+    </div>
+    <div class="field">
+      <label for="total_spend">Total Spend ($)</label>
+      <input id="total_spend" type="number" value="800" />
+    </div>
+    <div class="field">
+      <label for="num_purchases">Num Purchases</label>
+      <input id="num_purchases" type="number" value="5" />
+    </div>
+    <div class="field">
+      <label for="last_purchase_days_ago">Last Purchase (days ago)</label>
+      <input id="last_purchase_days_ago" type="number" value="30" />
+    </div>
+    <div class="field">
+      <label for="has_churned_before">Has Churned Before</label>
+      <select id="has_churned_before">
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="discount_used">Discount Used</label>
+      <select id="discount_used">
+        <option value="1">Yes</option>
+        <option value="0">No</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- Section: Product Usage -->
+<div class="card">
+  <h2>Product Usage</h2>
+  <div class="grid">
+    <div class="field">
+      <label for="monthly_active_days">Monthly Active Days</label>
+      <input id="monthly_active_days" type="number" value="20" />
+    </div>
+    <div class="field">
+      <label for="avg_session_duration_min">Avg Session Duration (min)</label>
+      <input id="avg_session_duration_min" type="number" step="0.1" value="7.5" />
+    </div>
+    <div class="field">
+      <label for="features_used_count">Features Used Count</label>
+      <input id="features_used_count" type="number" value="10" />
+    </div>
+    <div class="field">
+      <label for="api_calls_last_30_days">API Calls (last 30 days)</label>
+      <input id="api_calls_last_30_days" type="number" value="5000" />
+    </div>
+    <div class="field">
+      <label for="product_tours_completed">Product Tours Completed</label>
+      <input id="product_tours_completed" type="number" value="1" />
+    </div>
+    <div class="field">
+      <label for="onboarding_completed">Onboarding Completed</label>
+      <select id="onboarding_completed">
+        <option value="1">Yes</option>
+        <option value="0">No</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- Section: Support & Marketing -->
+<div class="card">
+  <h2>Support & Marketing</h2>
+  <div class="grid">
+    <div class="field">
+      <label for="support_tickets_total">Support Tickets Total</label>
+      <input id="support_tickets_total" type="number" value="2" />
+    </div>
+    <div class="field">
+      <label for="avg_ticket_resolution_hours">Avg Ticket Resolution (hrs)</label>
+      <input id="avg_ticket_resolution_hours" type="number" step="0.1" value="8.0" />
+    </div>
+    <div class="field">
+      <label for="sat_score">Satisfaction Score (1–5)</label>
+      <input id="sat_score" type="number" min="1" max="5" value="4" />
+    </div>
+    <div class="field">
+      <label for="campaigns_received">Campaigns Received</label>
+      <input id="campaigns_received" type="number" value="3" />
+    </div>
+    <div class="field">
+      <label for="last_marketing_touch_days_ago">Last Marketing Touch (days ago)</label>
+      <input id="last_marketing_touch_days_ago" type="number" value="15" />
+    </div>
+    <div class="field">
+      <label for="attended_webinar">Attended Webinar</label>
+      <select id="attended_webinar">
+        <option value="1">Yes</option>
+        <option value="0">No</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="social_media_engaged">Social Media Engaged</label>
+      <select id="social_media_engaged">
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="actions">
+  <button id="btn-reset" type="button">Reset</button>
+  <button id="btn-predict" type="button">Predict</button>
+</div>
+
+<br />
+<div id="spinner">Running prediction…</div>
+<div id="error-msg"></div>
+
+<!-- Result -->
+<div class="card" id="result-card">
+  <h2>Prediction Result</h2>
+  <div class="result-body">
+    <div class="verdict">
+      <div class="verdict-icon" id="verdict-icon"></div>
+      <div class="verdict-label" id="verdict-label"></div>
+    </div>
+    <div class="prob-bars">
+      <div class="prob-row">
+        <div class="prob-label">
+          <span>Will Repurchase</span>
+          <span id="prob-yes-val">—</span>
+        </div>
+        <div class="bar-track"><div class="bar-fill yes" id="bar-yes" style="width:0%"></div></div>
+      </div>
+      <div class="prob-row">
+        <div class="prob-label">
+          <span>Will NOT Repurchase</span>
+          <span id="prob-no-val">—</span>
+        </div>
+        <div class="bar-track"><div class="bar-fill no" id="bar-no" style="width:0%"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const API_URL = "http://127.0.0.1:8000/predict";
+
+  const numFields = [
+    "age", "annual_company_revenue", "months_as_customer", "total_spend",
+    "num_purchases", "last_purchase_days_ago", "has_churned_before", "discount_used",
+    "monthly_active_days", "avg_session_duration_min", "features_used_count",
+    "api_calls_last_30_days", "product_tours_completed", "onboarding_completed",
+    "support_tickets_total", "avg_ticket_resolution_hours", "sat_score",
+    "campaigns_received", "last_marketing_touch_days_ago", "attended_webinar",
+    "social_media_engaged"
+  ];
+
+  function buildRow() {
+    const row = {};
+    document.querySelectorAll("[id]").forEach(el => {
+      if (!el.id || ["btn-predict","btn-reset","result-card","error-msg","spinner",
+                      "verdict-icon","verdict-label","prob-yes-val","prob-no-val",
+                      "bar-yes","bar-no"].includes(el.id)) return;
+      const val = el.value.trim();
+      row[el.id] = numFields.includes(el.id) ? Number(val) : val;
+    });
+    return row;
+  }
+
+  function showError(msg) {
+    const el = document.getElementById("error-msg");
+    el.textContent = msg;
+    el.style.display = "block";
+  }
+
+  function hideError() {
+    document.getElementById("error-msg").style.display = "none";
+  }
+
+  document.getElementById("btn-predict").addEventListener("click", async () => {
+    hideError();
+    document.getElementById("result-card").style.display = "none";
+    document.getElementById("spinner").style.display = "block";
+    document.getElementById("btn-predict").disabled = true;
+
+    try {
+      const resp = await fetch(API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ rows: [buildRow()] })
+      });
+
+      if (!resp.ok) {
+        const err = await resp.json().catch(() => ({ detail: resp.statusText }));
+        throw new Error(err.detail || "Request failed");
+      }
+
+      const data = await resp.json();
+      const result = data[0];
+
+      const prediction = result.prediction;
+      const probYes = result.prediction_probability_1 ?? null;
+      const probNo  = result.prediction_probability_0 ?? null;
+
+      document.getElementById("verdict-icon").textContent = prediction === 1 ? "✅" : "❌";
+      const lbl = document.getElementById("verdict-label");
+      lbl.textContent = prediction === 1 ? "Will Repurchase" : "Will NOT Repurchase";
+      lbl.className = "verdict-label " + (prediction === 1 ? "positive" : "negative");
+
+      if (probYes !== null) {
+        const yPct = (probYes * 100).toFixed(1) + "%";
+        const nPct = (probNo  * 100).toFixed(1) + "%";
+        document.getElementById("prob-yes-val").textContent = yPct;
+        document.getElementById("prob-no-val").textContent  = nPct;
+        document.getElementById("bar-yes").style.width = yPct;
+        document.getElementById("bar-no").style.width  = nPct;
+      }
+
+      document.getElementById("result-card").style.display = "block";
+    } catch (err) {
+      showError("Error: " + err.message);
+    } finally {
+      document.getElementById("spinner").style.display = "none";
+      document.getElementById("btn-predict").disabled = false;
+    }
+  });
+
+  document.getElementById("btn-reset").addEventListener("click", () => {
+    document.querySelectorAll("input").forEach(el => el.defaultValue && (el.value = el.defaultValue));
+    document.querySelectorAll("select").forEach(el => (el.selectedIndex = 0));
+    hideError();
+    document.getElementById("result-card").style.display = "none";
+  });
+</script>
+</body>
+</html>

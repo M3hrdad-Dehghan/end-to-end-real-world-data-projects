@@ -1,0 +1,14 @@
+# EDA, Training and evaluating baseline models
+pandas==3.0.2
+numpy==2.4.4
+statsmodels==0.14.6
+scikit-learn==1.8.0
+mlflow==3.10.1
+lightgbm==4.6.0
+xgboost==3.2.0
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Component, Pipeline, Tuning Final Model
+optuna==4.0.0
+dvc==3.50.0
