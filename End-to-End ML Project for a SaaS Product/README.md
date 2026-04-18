@@ -53,4 +53,4 @@ The objective of this project is to build a binary classification model that pre
 
 ## 🎥 YouTube Walkthrough
  
-......
+https://www.youtube.com/watch?v=k5c1FpPhhf0
